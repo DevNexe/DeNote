@@ -57,7 +57,19 @@
 
 ## 📸 Скриншоты
 
-_(Добавьте сюда изображения интерфейса, если есть)_
+![image](images/image.png)
+
+![image](images/image1.png)
+
+![image](images/image2.png)
+
+![image](images/image3.png)
+
+![image](images/image4.png)
+
+![image](images/image5.png)
+
+![image](images/image6.png)
 
 ## 🛠 Как запустить
 
