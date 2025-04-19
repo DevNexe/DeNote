@@ -75,5 +75,5 @@
 
 ```bash
 pip install flet
-python denote.py
+python main.py
 ```
