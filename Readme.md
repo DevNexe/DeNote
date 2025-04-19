@@ -10,9 +10,6 @@
   <a style="text-decoration:none" href="https://github.com/DevNexe/DeNote/releases">
     <img src="https://img.shields.io/github/release/DevNexe/DeNote.svg?label=latest%20version" alt="Releases" />
   </a>
-  <a style="text-decoration:none">
-    <img src="https://img.shields.io/badge/platform-Windows-blue.svg" alt="Platform" />
-  </a>
 </p>
 
 
